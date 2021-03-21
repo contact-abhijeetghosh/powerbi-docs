@@ -63,7 +63,7 @@ You likely wonder what *different* means. For example, say that the overall spli
 |USA      |15        |
 |Canada   |5         |
 
-Then for a particular category of product *“Road Bike*) the split of sales might be:
+Then for a particular category of product *“Road Bike"* the split of sales might be:
 
 |Country  |Sales ($M)|
 |---------|----------|
